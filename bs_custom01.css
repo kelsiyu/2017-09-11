@@ -1,0 +1,30 @@
+@charset: "utf-8";
+#all{height: 760px;
+background-color: pink;
+padding-top: 15px;
+}
+#header{
+height: 150px;
+background-color: red;
+margin-bottom: 15px;
+}
+#main{
+height: 400px;
+background-color: orange;
+padding-right:15px;
+padding-left:15px;
+margin-bottom: 15px;
+}
+#mainL{
+height: 400px;
+background-color: gray;
+margin-right: 15px;
+}
+#mainR{
+height: 400px;
+background-color: black;
+}
+#footer{
+height: 150px;
+background-color: blue;
+}
